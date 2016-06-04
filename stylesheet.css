@@ -1,0 +1,130 @@
+
+/*@media screen and (max-width: auto){
+  /*for small devices*/
+ /* div {
+    max-width: 100%;
+  }
+}
+/*@media screen and (min-width: auto) and (max-width: 1920px){
+  /*css for tables*/
+}
+/*@media and (min-width: 1080px){
+/*desktop*/
+  /*#main_div {
+   width: 100%;
+   max-width: 1200px;
+ }
+}*/
+html {
+	background-image:url('http://inspiredology.com/wp-content/uploads/2011/02/block-shine-step-02.jpg');
+	background-repeat:no;
+	-moz-background-size:cover;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	
+}
+.contanair{
+	width:100px;
+	display:inline-block;
+}
+.nav{
+	margin:10px 0px 0px 275px;
+	
+	
+}
+/*.nav ul {
+	list-style-type:none;
+	
+}
+
+.nav nav-tabs nav-justifed ul li a {
+	
+	background:rgba(255,138,35,0.4);
+	text-decoration:none;
+	font:bold 14px Helvetica, Sans-Serif;
+	letter-spacing:-1px;
+	color:#ccccc;
+	text-shadow:#eee 0px 0px 2px;
+	
+} 	
+
+
+.nav ul li:first-child a{
+	  -moz-border-radius-topleft: 12px;
+	 -webkit-border-top-left-radius:12px;
+	 border-top-left-radius:12px;
+	 
+	 
+
+	 
+}
+.nav ul li:last-child a{
+	 -moz-border-radius-topright: 12px;
+	 -webkit-border-top-right-radius:12px;
+	 border-top-right-radius:12px;
+}*/
+.jumbotron h1{
+	color:#f2f2f2;
+	font-size:70px;
+	font-family:cursive;
+	font-weight:body;
+	text-align:center;
+	position:relative;
+	
+}
+
+.jumbotron p{
+	color:#797d7f;
+	font-size:40px;
+	font-family:sans-serif,arial;
+	margin-left:250px;
+	position:relative;
+	
+	
+}
+
+.item h3{
+	font-size:40px;
+	font-family:bold, CURSIVE;
+	color:#FBFCFC;
+	text-shadow:#aaa 0px 0px 2px;
+}
+.item p{
+	font-size:20px;
+	font-family:CURSIVE;
+	color:#F4ECF7;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  #PRODUCT h4{
+	  font-size:50px;
+	  text-align:center;
+	  font-family:bold,cursive;
+	  color:#000000;
+	  text-shadow:#aaa 0px 0px 2px;;
+  }
+#PRODUCT P{
+	font-size:40px;
+	color:#8f8f8f;
+	font-family:bold,sans-serif;
+	text-align:center;
+}
+
+#CONTACT h2{
+	font-size:50px;
+	text-align:center;
+	font-family:extra-expanded,bold,cursive;
+	color:000000;
+}
+
+#CONTACT p{
+	font-size:30px;
+	text-align:center;
+	font-family:bold,sans-serif;
+	color:8f8f8f;
+}
